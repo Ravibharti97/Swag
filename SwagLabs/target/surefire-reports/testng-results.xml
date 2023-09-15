@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-15T13:37:17 IST" name="SwagLabs" finished-at="2023-09-15T13:37:22 IST" duration-ms="5354">
+    <groups>
+    </groups>
+    <test started-at="2023-09-15T13:37:17 IST" name="Swag_LoginTest" finished-at="2023-09-15T13:37:22 IST" duration-ms="5354">
+      <class name="swagLabs_test.Swag_LoginTest">
+        <test-method is-config="true" signature="Launchurl()[pri:0, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d]" started-at="2023-09-15T13:37:17 IST" name="Launchurl" finished-at="2023-09-15T13:37:21 IST" duration-ms="3729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchurl -->
+        <test-method signature="Login()[pri:1, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d]" started-at="2023-09-15T13:37:21 IST" name="Login" finished-at="2023-09-15T13:37:21 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="getanalysis(org.testng.ITestResult)[pri:0, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d]" started-at="2023-09-15T13:37:21 IST" name="getanalysis" finished-at="2023-09-15T13:37:21 IST" duration-ms="164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login status=SUCCESS method=Swag_LoginTest.Login()[pri:1, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getanalysis -->
+        <test-method signature="Verifytitle()[pri:2, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d]" started-at="2023-09-15T13:37:21 IST" name="Verifytitle" finished-at="2023-09-15T13:37:21 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifytitle -->
+        <test-method is-config="true" signature="getanalysis(org.testng.ITestResult)[pri:0, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d]" started-at="2023-09-15T13:37:21 IST" name="getanalysis" finished-at="2023-09-15T13:37:21 IST" duration-ms="222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Verifytitle status=SUCCESS method=Swag_LoginTest.Verifytitle()[pri:2, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getanalysis -->
+        <test-method signature="AddToCart()[pri:3, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d]" started-at="2023-09-15T13:37:21 IST" name="AddToCart" finished-at="2023-09-15T13:37:22 IST" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="getanalysis(org.testng.ITestResult)[pri:0, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d]" started-at="2023-09-15T13:37:22 IST" name="getanalysis" finished-at="2023-09-15T13:37:22 IST" duration-ms="131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddToCart status=SUCCESS method=Swag_LoginTest.AddToCart()[pri:3, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getanalysis -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:swagLabs_test.Swag_LoginTest@3b6ddd1d]" started-at="2023-09-15T13:37:22 IST" name="TearDown" finished-at="2023-09-15T13:37:22 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- swagLabs_test.Swag_LoginTest -->
+    </test> <!-- Swag_LoginTest -->
+  </suite> <!-- SwagLabs -->
+</testng-results>
